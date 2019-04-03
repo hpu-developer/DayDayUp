@@ -24,3 +24,7 @@
 - 小象学院：
 - 炼数成金：
 - 优达学城：
+
+
+## AI 学习之路
+[深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
