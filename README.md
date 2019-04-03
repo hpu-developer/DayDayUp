@@ -5,7 +5,7 @@
 - HDOJ： 杭电在线测评系统
 - LeetCode：
 - 牛客网：
-- ![AI面试题库](https://www.julyedu.com/question/index/type/1)
+- [AI面试题库](https://www.julyedu.com/question/index/type/1)
 
 ## 大数据竞赛资源
 - kaggle： 全球最大的数据科学类竞赛平台
