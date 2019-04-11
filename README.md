@@ -27,5 +27,9 @@
 
 ## AI 之路
 - [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)： 深度学习相关问题集锦
-- [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) 100 天了解机器学习
-- [paperweekly](http://www.paperweekly.site/) 推荐、解读、讨论、报道人工智能前沿论文成果的学术平台。
+- [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code): 100 天了解机器学习
+- [paperweekly](http://www.paperweekly.site/): 推荐、解读、讨论、报道人工智能前沿论文成果的学术平台。
+
+
+## AI学习视频资源
+- [计算机图形学与混合现实研讨会](https://games-cn.org/): 业界大佬分享前沿资讯以及相关学术讨论
